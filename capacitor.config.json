@@ -1,0 +1,7 @@
+{
+  "appId": "com.ornek.palamutpesinde",
+  "appName": "Palamut Peşinde",
+  "webDir": "www",
+  "backgroundColor": "#123f2c",
+  "android": { "allowMixedContent": false }
+}
